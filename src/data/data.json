@@ -1,0 +1,184 @@
+{
+  "teams": [
+    {
+      "id": 1,
+      "name": "Budi Isman",
+      "position": "President Commisioner",
+      "imgUrl": "https://kiriminaja.com/assets/team/budi_isman.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Fariz GTJ",
+      "position": "Chief Executive Officer & Founder",
+      "imgUrl": "https://kiriminaja.com/assets/team/fariz_gtj.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Muhammad Irfan H",
+      "position": "Chief Technology Officer & Founder",
+      "imgUrl": "https://kiriminaja.com/assets/team/muh_irfan_herawan.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Paras M.Nasution",
+      "position": "Chief Operation Officer",
+      "imgUrl": "https://kiriminaja.com/assets/team/paras_nasution.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Arief Ardinugroho",
+      "position": "Chief Marketing Officer",
+      "imgUrl": "https://kiriminaja.com/assets/team/arief_ardinugroho.jpg"
+    }
+  ],
+  "expeditions": [
+    {
+      "id": 1,
+      "imgUrl": "https://kiriminaja.com/assets/logistics/jnt.png"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://kiriminaja.com/assets/logistics/sicepat.png"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://kiriminaja.com/assets/logistics/sap.png"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://kiriminaja.com/assets/logistics/sentral.png"
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://kiriminaja.com/assets/logistics/gosend.png"
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://kiriminaja.com/assets/logistics/grab_express.png"
+    },
+    {
+      "id": 7,
+      "imgUrl": "https://kiriminaja.com/assets/logistics/jne.png"
+    },
+    {
+      "id": 8,
+      "imgUrl": "https://kiriminaja.com/assets/logistics/anteraja.png"
+    },
+    {
+      "id": 9,
+      "imgUrl": "https://kiriminaja.com/assets/logistics/idx.png"
+    },
+    {
+      "id": 10,
+      "imgUrl": "https://kiriminaja.com/assets/logistics/ncs.png"
+    }
+  ],
+  "clients": [
+    {
+      "id": 1,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-arcelle-2.png"
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://kiriminaja.com/assets/home-2/blanja24.png"
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-bakpia.png"
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/logo_dion_farma.png"
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/logo_natasha.png"
+    },
+    {
+      "id": 6,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/logo_paeko.png"
+    },
+    {
+      "id": 7,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-diy.png"
+    },
+    {
+      "id": 8,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-nimco.png"
+    },
+    {
+      "id": 9,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-finna-1.png"
+    },
+    {
+      "id": 10,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-sibakul.png"
+    },
+    {
+      "id": 11,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-clandys.png"
+    },
+    {
+      "id": 12,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-hayyana-1.png"
+    },
+    {
+      "id": 13,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/efes-efes.png"
+    },
+    {
+      "id": 14,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-yukbid-2.png"
+    },
+    {
+      "id": 15,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-misseana.png"
+    },
+    {
+      "id": 16,
+      "imgUrl": "https://kiriminaja.com/assets/atrust/client-inolabs-1.png"
+    }
+  ],
+  "banners": [
+    {
+      "id": 1,
+      "imgUrl": "https://kiriminaja.com/storage/Slider/April22/1648798905_Slider2%20(3)%20(1).png",
+      "description": "Cara cerdas KIRIM PAKET pakai KiriminAja banyak diskon dan dapatkan peluang bawa pulang hadiahnya. Yuk buruan daftar dan kirim paketmu sekarang!",
+      "title": "Gebyar Pesta Pora Kirimin Aja",
+      "condition": [
+        {
+          "id": 1,
+          "name": "Tanpa Biaya Pendaftaran"
+        },
+        {
+          "id": 2,
+          "name": "Bebas Pilih Ekspedisi"
+        },
+        {
+          "id": 3,
+          "name": "Banyak Hadiahnya"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://kiriminaja.com/storage/Slider/November22/1668074906_slider%20november.png",
+      "description": "Cuman kirim paket bisa dapetin Sepeda atau SmartTV, affah iyah? Iyah, SahabatKA! Mau kan? Nah, makanya yuk tingkatkan pengirimanmu di November ini!",
+      "title": "November Untung Bener!",
+      "condition": [
+        {
+          "id": 1,
+          "name": "3 Sepeda Lipat Pasific Blitz"
+        },
+        {
+          "id": 2,
+          "name": "Samsung Smart TV 32"
+        },
+        {
+          "id": 3,
+          "name": "10 Hadiah Hiburan"
+        }
+      ]
+    }
+  ]
+}
